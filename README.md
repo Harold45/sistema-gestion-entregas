@@ -11,7 +11,7 @@ Este proyecto es una solución de software diseñada para optimizar la logístic
 ## 🛠️ Tecnologías Utilizadas
 * **Lenguaje:** JavaScript (Node.js)
 * **Backend:** Express.js (o el framework que hayas usado)
-* **Base de Datos:** [Aquí pon si usaste MongoDB, MySQL, etc.]
+* **Base de Datos:** MongoDB y JSON
 * **Control de Versiones:** Git & GitHub
 
 ## 📂 Estructura del Proyecto
